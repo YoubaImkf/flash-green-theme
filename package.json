@@ -1,0 +1,33 @@
+{
+  "name": "flash-green-dark",
+  "displayName": "Flash Green Dark",
+  "description": "Pretty insane flash green dark theme, no ? 🔥",
+  "version": "0.2.0",
+  "publisher": "YoubaImkf",
+  "engines": {
+    "vscode": "^1.85.1"
+  },
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark", "flash-green-dark","green theme", "green", "flash green","dark green", "green dark", "dark theme", "flash", "YoubaImkf"],
+  "icon": "assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Flash Green Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/flash-green-dark-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": "https://github.com/YoubaImkf/issues"
+  },
+  "license": "MIT"
+}
