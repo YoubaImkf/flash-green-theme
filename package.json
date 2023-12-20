@@ -2,13 +2,29 @@
   "name": "flash-green-dark",
   "displayName": "Flash Green Dark",
   "description": "Pretty insane flash green dark theme, no ? 🔥",
-  "version": "0.2.0",
+  "version": "0.2.5",
   "publisher": "YoubaImkf",
   "engines": {
     "vscode": "^1.85.1"
   },
-  "categories": ["Themes"],
-  "keywords": ["theme", "dark", "flash-green-dark","green theme", "green", "flash green","dark green", "green dark", "dark theme", "flash", "YoubaImkf"],
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "flash-green-dark",
+    "green theme",
+    "green",
+    "flash green",
+    "dark green",
+    "green dark",
+    "dark theme",
+    "flash",
+    "VS Code theme",
+    "YoubaImkf",
+    "beautiful theme"
+  ],
   "icon": "assets/icon.png",
   "contributes": {
     "themes": [
