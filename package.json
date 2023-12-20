@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/YoubaImkf/flash-green-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/YoubaImkf/issues"
+    "url": "https://github.com/YoubaImkf/flash-green-theme.git/issues"
   },
   "license": "MIT"
 }
