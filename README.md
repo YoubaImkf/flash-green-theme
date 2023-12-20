@@ -1,4 +1,4 @@
 # Flash Green Dark Theme 💚
 
-![This is Flash Green Dark Theme](https://github.com/YoubaImkf/flash-green-theme/blob/main/assets/icon.png)
+![This is Flash Green Dark Theme](https://github.com/YoubaImkf/flash-green-theme/blob/main/assets/preview.png)
 
