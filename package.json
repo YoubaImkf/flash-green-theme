@@ -1,8 +1,8 @@
 {
   "name": "flash-green-dark",
   "displayName": "Flash Green Dark",
-  "description": "Pretty insane flash green dark theme, no ? 🔥",
-  "version": "0.3.0",
+  "description": "Pretty insane green dark theme, no ? 🔥💚",
+  "version": "0.3.5",
   "publisher": "YoubaImkf",
   "engines": {
     "vscode": "^1.85.1"
@@ -13,6 +13,7 @@
   "keywords": [
     "theme",
     "dark",
+    "shadow theme",
     "flash-green-dark",
     "green theme",
     "green",
